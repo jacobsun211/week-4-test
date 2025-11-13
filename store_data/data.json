@@ -1,0 +1,17 @@
+{
+"highest_requests": {
+"name": "atbash POST",
+"number": 17
+},
+"lowest_requests": {
+"name": "fence GET",
+"number": 3
+},
+"highest_handeling_time": {
+"name": "caesar POST",
+"number": 21.7
+},
+"lowest": {
+"name": "atbash POST",
+"number": 7.9
+}
